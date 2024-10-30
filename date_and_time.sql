@@ -8,3 +8,4 @@ FROM
 -- Adding a comment from VS Code
 -- Adding a new test comment from GitHub.com
 -- Adding yet another comment from GitHub.com
+-- Adding a 2nd comment from VS Code
