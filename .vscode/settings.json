@@ -1,27 +1,3 @@
 {
-    "sqltools.connections": [
-        {
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "driver": "PostgreSQL",
-            "name": "postgres",
-            "database": "postgres",
-            "username": "postgres"
-        },
-        {
-            "mssqlOptions": {
-                "appName": "SQLTools",
-                "useUTC": true,
-                "encrypt": true
-            },
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 1433,
-            "driver": "MSSQL",
-            "name": "sqlserver",
-            "database": "ms_db",
-            "username": "sa"
-        }
-    ]
+    "sqltools.connections": []
 }
