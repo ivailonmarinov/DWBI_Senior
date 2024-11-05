@@ -1,1 +1,2 @@
 -- test comment from the new windows installation
+-- 2nd test comment from inside github
