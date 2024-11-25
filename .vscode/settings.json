@@ -8,6 +8,20 @@
             "name": "postgres",
             "database": "postgres",
             "username": "postgres"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "sqlserver",
+            "database": "master",
+            "username": "sa"
         }
     ]
 }
